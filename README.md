@@ -1,4 +1,4 @@
-![CSS logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockhouse.com%2Fnews%2Fpress-releases%2F2020%2F08%2F11%2Fal-barbieri-named-president-of-common-securitization-solutions&psig=AOvVaw11fnVLiXFJuPJgVDKxxBtU&ust=1607220975043000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjCpu7ite0CFQAAAAAdAAAAABAJ)
+![CSS logo](Common-Securitization-Solutions.jpg)
 
 # **Common Securitization Solutions (CSS)**
 
