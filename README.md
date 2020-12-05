@@ -40,8 +40,8 @@ Implementing Block-chain technology into the CSP will enhance the efficiency for
 
 ## **Resources:**
 
-Home: CSS. (2020). Retrieved December 04, 2020, from https://www.commonsecuritization.com/
-Get Started Here: Single Security Initiative/ CSP Timeline. (2019, June 3). Retrieved December 04, 2020, from https://www.fhfa.gov/PolicyProgramsResearch/Policy/Pages/Common-Securitization-Platform-and-Single-Security-Timeline.aspx
-https://www.commonsecuritization.com/our-mission#who-is-css
-Freddie Mac, Fannie Mae and Common Securitization Solutions Create Single Security/CSP Industry Advisory Group. (2015, July 8). Retrieved December 05, 2020, from https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-fannie-mae-and-common-securitization-solutions
-Special Report on the Common Securitization Platform: FHFA Lacked Transparency and Exercised Inadequate Oversight over a $2.13 Billion, Seven-Year Projecthttps://www.fhfaoig.gov/sites/default/files/OIG-2019-005%20Special%20Report%20on%20the%20Common%20Securitization%20Platform_Redacted.pdf. (2019, March 29). Retrieved December 04, 2020, from https://www.fhfaoig.gov/sites/default/files/OIG-2019-005%20Special%20Report%20on%20the%20Common%20Securitization%20Platform_Redacted.pdf
+1. Home: CSS. (2020). Retrieved December 04, 2020, from https://www.commonsecuritization.com/
+2. Get Started Here: Single Security Initiative/ CSP Timeline. (2019, June 3). Retrieved December 04, 2020, from https://www.fhfa.gov/PolicyProgramsResearch/Policy/Pages/Common-Securitization-Platform-and-Single-Security-Timeline.aspx
+3. https://www.commonsecuritization.com/our-mission#who-is-css
+4. Freddie Mac, Fannie Mae and Common Securitization Solutions Create Single Security/CSP Industry Advisory Group. (2015, July 8). Retrieved December 05, 2020, from https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-fannie-mae-and-common-securitization-solutions
+5. Special Report on the Common Securitization Platform: FHFA Lacked Transparency and Exercised Inadequate Oversight over a $2.13 Billion, Seven-Year Projecthttps://www.fhfaoig.gov/sites/default/files/OIG-2019-005%20Special%20Report%20on%20the%20Common%20Securitization%20Platform_Redacted.pdf. (2019, March 29). Retrieved December 04, 2020, from https://www.fhfaoig.gov/sites/default/files/OIG-2019-005%20Special%20Report%20on%20the%20Common%20Securitization%20Platform_Redacted.pdf
